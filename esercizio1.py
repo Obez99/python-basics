@@ -5,4 +5,4 @@ y = float(input('Inserisci il secondo valore ---> '))
 
 z = x * y
 
-print('Il risultato della moltiplicazione è: ' + str(z))
+print('\nIl risultato della moltiplicazione è: ' + str(z))
